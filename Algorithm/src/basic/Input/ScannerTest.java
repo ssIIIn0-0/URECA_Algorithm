@@ -75,6 +75,7 @@ public class ScannerTest {
 			char[] input = sc.nextLine().toCharArray();	// XYESG
 
 			System.out.println(Arrays.toString(input));
+			sc.close();
 		}
 	}
 

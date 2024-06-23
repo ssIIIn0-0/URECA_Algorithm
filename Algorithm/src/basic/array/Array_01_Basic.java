@@ -1,4 +1,4 @@
-package array;
+package basic.array;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

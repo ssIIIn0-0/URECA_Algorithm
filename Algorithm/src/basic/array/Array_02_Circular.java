@@ -1,4 +1,4 @@
-package array;
+package basic.array;
 
 public class Array_02_Circular {
 
@@ -24,7 +24,7 @@ public class Array_02_Circular {
 		
 		// 반복 횟수를 정확히 알 수 없을 때
 		int count = 0;
-		int finish = 20;
+		//int finish = 20;
 		int i = 0;
 		while(true) {
 			if(count == 20) break;
