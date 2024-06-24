@@ -1,4 +1,4 @@
-package ch3;
+package Greedy_ch03;
 
 import java.util.Iterator;
 
