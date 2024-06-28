@@ -27,13 +27,13 @@ public class BaekJoon_1992 {
 	
 	public static void QuadTree(int x, int y, int size) {
 		
-		// 압축이 가능할 경우 하나의 색상으로 압축해준다.
+		// 압축이 가능할 경우 압축
 		if(isPossible(x, y, size)) {
 			sb.append(img[x][y]);
 			return;
 		}
 		
-		int newSize = size / 2;	// 압축이 불가능 할 경우 사이즈를 절반으로 나누어야 한다.
+		int newSize = size / 2;	// 압축이 불가능 할 경우 한 변의 길이를 반으로 나눈다.
 		
 		sb.append('(');	// 각 레벨(depth)에서 여는괄호로 시작해야한다. 
 		
