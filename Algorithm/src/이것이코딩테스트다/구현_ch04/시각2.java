@@ -1,4 +1,4 @@
-package 구현_ch04;
+package 이것이코딩테스트다.구현_ch04;
 
 import java.util.Scanner;
 // 문자열로 처리하지 않고, 숫자로 처리하는 부분 OK

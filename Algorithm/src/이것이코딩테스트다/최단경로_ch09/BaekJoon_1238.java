@@ -1,4 +1,4 @@
-package 최단경로_ch09;
+package 이것이코딩테스트다.최단경로_ch09;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

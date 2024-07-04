@@ -1,4 +1,4 @@
-package DP_ch08;
+package 이것이코딩테스트다.DP_ch08;
 
 public class 피보나치_수열 {
 

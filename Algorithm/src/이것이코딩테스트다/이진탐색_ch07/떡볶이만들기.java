@@ -1,4 +1,4 @@
-package 이진탐색_ch07;
+package 이것이코딩테스트다.이진탐색_ch07;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

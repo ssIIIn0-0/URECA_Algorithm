@@ -1,4 +1,4 @@
-package Greedy_ch03;
+package 이것이코딩테스트다.Greedy_ch03;
 
 public class 거스름돈 {
 

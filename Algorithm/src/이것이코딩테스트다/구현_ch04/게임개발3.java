@@ -1,4 +1,4 @@
-package 구현_ch04;
+package 이것이코딩테스트다.구현_ch04;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package 그래프_ch10;
+package 이것이코딩테스트다.그래프_ch10;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

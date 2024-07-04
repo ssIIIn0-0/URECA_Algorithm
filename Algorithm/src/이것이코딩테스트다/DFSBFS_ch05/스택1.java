@@ -1,4 +1,4 @@
-package DFSBFS_ch05;
+package 이것이코딩테스트다.DFSBFS_ch05;
 
 import java.util.Stack;
 

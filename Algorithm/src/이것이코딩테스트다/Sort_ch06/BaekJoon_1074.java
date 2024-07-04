@@ -1,4 +1,4 @@
-package Sort_ch06;
+package 이것이코딩테스트다.Sort_ch06;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
